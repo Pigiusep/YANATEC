@@ -37,7 +37,7 @@ header {
   border: 1px solid gray;
   border-radius: 100px;
   margin-bottom: 10px;
-  background-image: url(/imagenes/profile.jpg);
+  background-image: url(imagenes/profile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -122,7 +122,7 @@ h2 {
 }
 
 .computadoras {
-  background-image: url(/imagenes/pc.png);
+  background-image: url(imagenes/pc.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 250px;
@@ -161,7 +161,7 @@ h2 {
 }
 
 .laptops {
-  background-image: url(/imagenes/laptop.jpg);
+  background-image: url(imagenes/laptop.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 250px;
@@ -170,7 +170,7 @@ h2 {
 }
 
 .perifericos {
-  background-image: url(/imagenes/perifericos.jpg);
+  background-image: url(imagenes/perifericos.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 250px;
@@ -179,7 +179,7 @@ h2 {
 }
 
 .otros {
-  background-image: url(/imagenes/camara.jpg);
+  background-image: url(imagenes/camara.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 250px;
